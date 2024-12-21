@@ -28,7 +28,8 @@ Examples:
 
 ***
 
-## or
+## or (Preferred method)
+
 ***
 ```
 https://cdn.jsdelivr.net/gh/simplr-sh/coin-logos/images/<coingecko_coin_id>/<large|standard|small|thumb>.png
