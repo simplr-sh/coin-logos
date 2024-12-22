@@ -1,10 +1,8 @@
-# Coin Logos
+# [Coin Logos](https://github.com/simplr-sh/coin-logos)
 
 
 
-Free Open Source collection of 16,119 cryptocurrency logos tracked and active on Coingecko in 4 use-case optimised sizes.
-
-Production-ready logo image URLs courtesy of `jsDelivr` CDN & `Cloudflare`. No bandwidth or request limits. Completely free for anyone to use.
+### 16,119 cryptocurrency logos assets & `jsDelivr` CDN powered production-ready URLs in 4 use-case optimised sizes. No bandwidth or request limits. Completely free & open source for all to use.
 
 
 ![About Coin Logos](/readme-assets//image.jpg)
