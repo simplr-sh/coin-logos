@@ -2,7 +2,7 @@
 
 ### Special Thanks to [Cloudflare](https://cloudflare.com) & [jsDelivr](https://jsdelivr.com)
 
-Free Open Source collection of more than 16,113 cryptocurrency logos tracked and active on Coingecko in 4 use-case optimised sizes.
+Free Open Source collection of more than 16,119 cryptocurrency logos tracked and active on Coingecko in 4 use-case optimised sizes.
 
 Production-ready asset endpoints courtesy of `Cloudflare` & `jsDelivr` CDN. No bandwidth or request limits & completely free for anyone to use.
 
