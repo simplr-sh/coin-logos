@@ -2,7 +2,9 @@
 
 ### Special Thanks to [Cloudflare](https://cloudflare.com) & [jsDelivr](https://jsdelivr.com)
 
-Free Open Source collection of more than 16,100 cryptocurrency logos tracked and active on Coingecko.
+Free Open Source collection of more than 16,113 cryptocurrency logos tracked and active on Coingecko in 4 use-case optimised sizes.
+
+Production-ready asset endpoints courtesy of `Cloudflare` & `jsDelivr` CDN. No bandwidth or request limits & completely free for anyone to use.
 
 ## Last Updated - 20 December 2024
 
@@ -38,12 +40,14 @@ https://api.coingecko.com/api/v3/coins/list?include_platform=false&status=active
 
 ## How to use
 
-Download the individual files and use it in our project as appropriate or use either of the 2 URLs to directly use the image assets anywhere required.
+1. Download the individual files and use it in our project as appropriate.
+
+2. use either of the 2 URLs to directly use the image assets anywhere required. Production ready, no bandwidth or rate-limits, ever!.
 
 ```
 https://coin-logos.simplr.sh/images/<coingecko_coin_id>/<large|standard|small|thumb>.png
 ```
-> The above URL is a pretty URL slightly shorter & more memorable than the original which redirects to the original jsDelivr URL with a 302 code.
+> The above URL is just a pretty URL. Slightly shorter & more memorable than the original which redirects to the original jsDelivr URL with a 302 code.
 
 Examples:
 
@@ -51,6 +55,9 @@ Examples:
 * https://coin-logos.simplr.sh/images/solana/standard.png
 * https://coin-logos.simplr.sh/images/ethereum/small.png
 * https://coin-logos.simplr.sh/images/sui/thumb.png
+
+
+> For production, use the below `preferred method` of directly using the `cdn.jsDelivr.net` asset URLs.
 
 ***
 
