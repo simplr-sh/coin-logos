@@ -31,11 +31,11 @@ https://coin-logos.simplr.sh/images/<coingecko_coin_id>/<large|standard|small|th
 
 ## Planned Improvements
 
-[] UI for improved search
+- [ ] UI for improved search
 
-[] Pipeline to add newer coin logos
+- [ ] Pipeline to add newer coin logos
 
-[] Better Docs
+- [ ] Better Docs
 
 ***
 
