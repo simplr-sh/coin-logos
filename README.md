@@ -18,8 +18,16 @@ Production-ready logo image URLs courtesy of `jsDelivr` CDN & `Cloudflare`. No b
 1. PNG
 
 ### Empowered by [jsDelivr](https://jsdelivr.com) & [Cloudflare](https://cloudflare.com)
+```
+https://cdn.jsdelivr.net/gh/simplr-sh/coin-logos/images/<coingecko_coin_id>/<large|standard|small|thumb>.png
+```
+```
+https://coin-logos.simplr.sh/images/<coingecko_coin_id>/<large|standard|small|thumb>.png
+```
 
 ### Last Updated - 20 December 2024
+
+***
 
 ## Get Full list of Coingecko coins using Coingecko APIs
 
