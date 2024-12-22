@@ -29,6 +29,14 @@ https://coin-logos.simplr.sh/images/<coingecko_coin_id>/<large|standard|small|th
 
 ### Last Updated - 20 December 2024
 
+## Planned Improvements
+
+[ ] UI for improved search
+
+[ ] Pipeline to add newer coin logos
+
+[ ] Better Docs
+
 ***
 
 ## Get Full list of Coingecko coins using Coingecko APIs
