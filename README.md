@@ -7,6 +7,8 @@ Free Open Source collection of 16,119 cryptocurrency logos tracked and active on
 Production-ready logo image URLs courtesy of `jsDelivr` CDN & `Cloudflare`. No bandwidth or request limits. Completely free for anyone to use.
 
 
+![About Coin Logos](/readme-assets//image.jpg)
+
 
 ### Available Sizes
 1. Large - 250px x 250px
