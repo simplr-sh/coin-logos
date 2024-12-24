@@ -1,6 +1,6 @@
 <h1 align="left">
     <img style="vertical-align: middle;" width="64" height="64" src="./readme-assets/cl-logo.png">
-    <a href="https://github.com/simplr-sh/coin-logos">Coin Logos</a>
+    <a href="https://github.com/simplr-sh/coin-logos" style="vertical-align: middle;">Coin Logos</a>
 </h1>
 
 
