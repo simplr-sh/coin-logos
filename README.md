@@ -10,7 +10,7 @@
 
 ### 16,119 cryptocurrency logos assets & `jsDelivr` CDN powered production-ready URLs in 4 use-case optimised sizes. No bandwidth or request limits. Completely free & open source for all to use.
 
-<img style="vertical-align: middle;" height="128" src="./readme-assets/coin-logos-banner.png" >
+<img style="vertical-align: middle;" src="./readme-assets/coin-logos-banner.png" >
 
 ![About Coin Logos](./readme-assets/image.jpg)
 
