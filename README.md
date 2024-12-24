@@ -1,11 +1,11 @@
-<a href="https://github.com/simplr-sh/coin-logos">
-  <h1 align="left">
-      <img style="vertical-align: middle;" width="64" height="64" src="./readme-assets/cl-logo.png">
-      <span>
+<div align="center">
+    <img style="vertical-align: middle;" width="128" height="128" src="./readme-assets/cl-logo.png">
+    <h1 align="center">
+      <a href="https://github.com/simplr-sh/coin-logos">
         Coin Logos
-      </span>
-  </h1>
-</a>
+      </a>
+    </span>
+</div>
 
 
 ### 16,119 cryptocurrency logos assets & `jsDelivr` CDN powered production-ready URLs in 4 use-case optimised sizes. No bandwidth or request limits. Completely free & open source for all to use.
